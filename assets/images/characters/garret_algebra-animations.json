@@ -1,0 +1,9 @@
+{
+	"file":"garrett_algebra",
+	"health_icon": "garrett",
+	"idle":"STAND",
+	"left":"LEFT",
+	"right":"RIGHT",
+	"up":"UP",
+	"down":"DOWN"	
+}

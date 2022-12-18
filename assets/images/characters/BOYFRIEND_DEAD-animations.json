@@ -1,0 +1,8 @@
+{
+	"file":"BOYFRIEND_DEAD",
+	"confirm":"BF Dead confirm",
+	"dies":"BF dies",
+	"diedsound":"fnf_loss_sfx.ogg",
+	"gameover":"gameOver.ogg",
+	"gameoverend":"gameOverEnd.ogg"
+}

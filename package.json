@@ -1,0 +1,20 @@
+{
+  "name": "friday-night-gvbvdxxin-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron .",
+	"build-tmp-funct": "electron-builder ",
+	"build-win": "node pack-win.js",
+	"build-html5": "node packer.js"
+  },
+  "author": "Gvbvdxx",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^20.2.0",
+	"electron-builder": "^23.3.3"
+  },
+  "dependencies": {
+  }
+}
