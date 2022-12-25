@@ -1,0 +1,14 @@
+{
+	"file":"santiagoAssets",
+	"health_icon": "icon-santiago",
+	"idle":"santiago idle",
+	"left":"santiago left",
+	"right":"santiago right",
+	"up":"santiago up",
+	"down":"santiago down",
+	"color":[
+		0,
+		95,
+		255
+	]
+}
