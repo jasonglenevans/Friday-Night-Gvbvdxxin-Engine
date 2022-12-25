@@ -1,0 +1,10 @@
+{
+	"file":"HALL_MONITOR",
+	"health_icon": "hall-monitor",
+	"idle":"gdj",
+	"left":"left",
+	"right":"right",
+	"up":"up",
+	"down":"down",
+	"scale":1.7
+}

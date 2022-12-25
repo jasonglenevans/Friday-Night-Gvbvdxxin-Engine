@@ -1,0 +1,9 @@
+{
+	"file":"playrobot",
+	"health_icon": "playrobot",
+	"idle":"Idle",
+	"left":"Left",
+	"right":"Right",
+	"up":"Up",
+	"down":"Down"	
+}

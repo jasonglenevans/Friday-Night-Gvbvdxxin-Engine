@@ -1,0 +1,9 @@
+{
+	"file":"diamondMan",
+	"health_icon": "diamond",
+	"idle":"bgIdle",
+	"left":"left",
+	"right":"right",
+	"up":"up",
+	"down":"down"	
+}

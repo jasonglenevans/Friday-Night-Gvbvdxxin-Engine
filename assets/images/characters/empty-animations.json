@@ -1,0 +1,14 @@
+{
+	"file":"emptylol",
+	"health_icon": "sank",
+	"idle":"empty",
+	"left":"empty",
+	"right":"empty",
+	"up":"empty",
+	"down":"empty",
+	"color":[
+		0,
+		95,
+		255
+	]
+}
